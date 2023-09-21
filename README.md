@@ -1,3 +1,10 @@
+![Geins][mit-shield]
+
+[![Start Geins Free Trial][geins-tiral-img]][geins-tiral-url] [![Geins Docs][geins-docs-img]][geins-docs-url]
+
+[![geins-banner](https://raw.githubusercontent.com/geins-io/resources/master/images/banners/repos/klaviyo-integration.jpg)](https://www.geins.io)
+
+
 # Introduction
 This Klaviyo integration launchpad is built on Azure Functions. The launchpad is a starting point for building Klaviyo integrations. The launchpad is an fork of the [Geins Integration Launchpad](https://github.com/geins-io/lp-integration-serverless)
 
@@ -106,3 +113,10 @@ This is the main trigger. It is used to process the messages in the queue. The t
 - [Klaviyo API](https://www.klaviyo.com/docs/api/v2)
 - [Geins Management API](https://docs.geins.io)
 
+
+[geins-docs-url]: https://docs.geins.io
+[geins-docs-img]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/geins-io/resources/master/sheilds/geins-docs-read-v3.json
+[geins-tiral-url]: https://www.geins.io
+[geins-tiral-img]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/geins-io/resources/master/sheilds/geins-fee-tiral.json
+[mit-shield]: https://img.shields.io/badge/license-MIT-green
+[mit-url]: https://en.wikipedia.org/wiki/MIT_License
